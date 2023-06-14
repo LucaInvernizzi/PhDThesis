@@ -1,4 +1,8 @@
 # PhDThesis
 Reference code for PhD thesis
 
-Divided into chapter, contains the code to clean and process the data, to generate the graphs and plots, and (when possible) to download the data
+Divided into chapter, contains:
+- Raw Data (when possible)
+- Instruction on how to obtain the data (when possible)
+- Code to clean and process the data
+- Code to generate the graphs and plots
