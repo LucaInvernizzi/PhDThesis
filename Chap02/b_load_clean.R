@@ -1,3 +1,6 @@
+library(dplyr)
+library(xlsx)
+
 b_load_clean <- function(file, species) {
         df_asp <- read.csv(paste0("data/", file), header = F)
         df_asp[,"query_subject_frame"] <- paste(df_asp[ , 14], df_asp[, 15], sep = "/")

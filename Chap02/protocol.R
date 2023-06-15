@@ -1,12 +1,12 @@
-# table1 contains manually curated info extracted from literature on selected pathogenicity genes for A. fumigatus
-# protein.fasta sequences for all the genes in table1 was downloaded from UNIPROT (stored in Protein_fasta)
-# 
+# NB: this code needs the function defined in b_load_clean.R
 
 # packages needed
 library(dplyr)
 library(tidyr)
+library(xlsx)
+library(ComplexHeatmap)
 
-# load data into R 
+### load data into R 
 clavatus_ptn_all_raw <- read.csv("data/clavatus_tblastn.csv", header = F)
 flavus_ptn_all_raw <- read.csv("data/flavus_tblastn.csv", header = F)
 fumigatus_ptn_all_raw <- read.csv("data/fumigatus_tblastn.csv", header = F)
@@ -15,7 +15,7 @@ niger_ptn_all_raw <- read.csv("data/niger_tblastn.csv", header = F)
 oryzae_ptn_all_raw <- read.csv("data/oryzae_tblastn.csv", header = F)
 terreus_ptn_all_raw <- read.csv("data/terreus_tblastn.csv", header = F)
 
-# clean data fro each species
+### clean data fro each species
 # CLAVATUS
 df_asp <- clavatus_ptn_all_raw
 df_asp$query_subject_frame <- paste(df_asp$V14, df_asp$V15, sep = "/")
@@ -102,7 +102,6 @@ ptn_complete <- banana
 nrow(ptn_complete)
 
 ### EXCEL WITH GENE/PROT INFO - Load and merge with dataframe
-library(xlsx)
 gp_info <- read.xlsx("table1.xlsx", sheetIndex = 1)
 # nb the gene pigA is only pig cause it was wrong in fasta header
 
@@ -133,13 +132,10 @@ thesis_heat <- unique(thesis_heat)
 checkNA <- lapply(hmap_df, is.na)
 lapply(checkNA, sum) # NA check
 
-# cast the dataset 
-library(reshape2)
+### cast the dataset into proper shape for heatmap, remove col with names, add rownames
 cast_thesis_heat <- dcast(thesis_heat, species ~ name, value.var = "identity")
 row.names(cast_thesis_heat) <- cast_thesis_heat$species
 cast_thesis_heat <- subset(cast_thesis_heat, select = -c(species))
-View(cast_thesis_heat)
-class(cast_thesis_heat)
 
-library(ComplexHeatmap)
+### heatmap generation (default is hierarchical clustering)
 Heatmap(cast_thesis_heat)
