@@ -1,0 +1,8 @@
+ID;description;baseMean;log2FoldChange;lfcSE;stat;pvalue;padj;ID
+19595;Afu1g06130;Ortholog(s) have rhamnogalacturonan acetylesterase activity and role in pectin catabolic process;82.4299089767056;3.10025157250394;0.494207495759753;6.27317796493126;3.53752169571938e-10;2.51136065745714e-09;Afu1g06130
+32288;Afu1g17190;c("Triacetylfusarinine C (TAFC) biosynthetic enoyl-CoA hydratase", " putative");5622.50962715061;7.00720074510227;0.199889824759214;35.0553148642914;3.2359068179694e-269;7.98864495686196e-266;Afu1g17190
+52315;Afu6g11630;c("Has domain(s) with predicted UDP-N-acetylmuramate dehydrogenase activity", " flavin adenine dinucleotide binding", " oxidoreductase activity and role in oxidation-reduction process");5547.20861039236;2.76546640941933;0.135139801589459;20.4637447805387;4.53202299498929e-93;7.10376620246338e-91;Afu1g17200
+53807;Afu6g02910;c("Mitochondrial bifunctional enzyme with N-acetyl-gamma-glutamyl-phosphate reductase and acetylglutamate kinase activity", " catalyzes the second and third step in arginine biosynthesis");4169.9036128578;4.92581328695336;0.188780734389718;26.0927753188232;4.40345198074337e-150;1.61052178925336e-147;Afu3g03390
+43506;Afu1g17200;c("Fusarinine C non-ribosomal peptide synthetase (NRPS)", " putative");11767.6385056956;6.3178177418249;0.140025321593565;45.1191089577561;0;0;Afu3g03430
+52788;Afu3g03390;c("Siderophore biosynthesis lipase/esterase", " putative");7487.77674952684;1.11572917675555;0.103267967239181;10.8042136064458;3.28761895274343e-27;8.77438842117334e-26;Afu6g02910
+85633;Afu3g03430;c("ABC multidrug transporter SitT", " putative");21.9265851224285;2.08756043473685;0.435119249278638;4.79767428859493;1.605185194665e-06;7.22809110684766e-06;Afu6g11630
