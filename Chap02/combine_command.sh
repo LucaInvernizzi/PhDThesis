@@ -1,0 +1,1 @@
+cat protein_fasta/*.fasta >> combined.fasta

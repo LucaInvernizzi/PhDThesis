@@ -1,0 +1,246 @@
+"","name","subject_acc_ver","identity","align_length","mismatches","gap_open","query_start","query_end","sub_start","sub_end","e_value","bit_score","%positives","query_subject_frame","species","accession_ncbi","virulence_aspect","protein_function","gene_length_bp","cds_length_bp","prot_length_uni","year_ncbi","chr","quality_uniprot","notes"
+"1","acuM","XM_001275510.1",93.75,16,1,0,196,211,581,628,8.65e-36,36.2,93.75,"0/2","clavatus","XM_750472","nutrition","Zn cluster transcription factor",2294,1932,627,2016,2,"3",NA
+"2","acuM","CP051037.1",90.909,66,6,0,562,627,4120926,4121123,2.11e-25,116,96.97,"0/3","flavus","XM_750472","nutrition","Zn cluster transcription factor",2294,1932,627,2016,2,"3",NA
+"3","acuM","AP007159.1",90.909,66,6,0,562,627,1178622,1178425,2.4e-26,116,96.97,"0/-3","oryzae","XM_750472","nutrition","Zn cluster transcription factor",2294,1932,627,2016,2,"3",NA
+"4","acuM","AM270007.1",93.939,66,4,0,562,627,31524,31721,6.78e-176,117,98.48,"0/3","niger","XM_750472","nutrition","Zn cluster transcription factor",2294,1932,627,2016,2,"3",NA
+"5","acuM","GU290314.1",100,453,0,0,175,627,1,1359,0,863,100,"0/1","fumigatus","XM_750472","nutrition","Zn cluster transcription factor",2294,1932,627,2016,2,"3",NA
+"6","acuM","XM_001208531.1",73.256,516,89,7,154,627,1,1527,0,696,80.43,"0/1","terreus","XM_750472","nutrition","Zn cluster transcription factor",2294,1932,627,2016,2,"3",NA
+"7","acuM","BN001301.1",92.424,66,5,0,562,627,632873,633070,2.4e-174,120,96.97,"0/2","nidulans","XM_750472","nutrition","Zn cluster transcription factor",2294,1932,627,2016,2,"3",NA
+"8","ags3","XM_001271446.1",83.319,2392,385,5,22,2412,58,7194,0,4081,90.43,"0/1","clavatus","XM_747819","cell wall",NA,7239,7239,2412,2005,1,"NA",NA
+"9","ags3","AP007175.1",84.167,120,19,0,1,120,250967,251326,2.36e-50,199,90.83,"0/2","oryzae","XM_747819","cell wall",NA,7239,7239,2412,2005,1,"NA",NA
+"10","ags3","XM_747819.1",100,2412,0,0,1,2412,1,7236,0,4819,100,"0/1","fumigatus","XM_747819","cell wall",NA,7239,7239,2412,2005,1,"NA",NA
+"11","ags3","XM_001218718.1",94.61,2412,129,1,1,2412,1,7233,0,4602,96.85,"0/1","terreus","XM_747819","cell wall",NA,7239,7239,2412,2005,1,"NA",NA
+"12","ags3","XM_025604697.1",77.609,2434,486,12,1,2412,250,7440,0,3803,85.99,"0/1","niger","XM_747819","cell wall",NA,7239,7239,2412,2005,1,"NA",NA
+"13","ags3","BN001306.1",76.768,99,23,0,22,120,1119300,1119596,1.45e-44,180,88.89,"0/3","nidulans","XM_747819","cell wall",NA,7239,7239,2412,2005,1,"NA",NA
+"14","ags3","CP051074.1",84.167,120,19,0,1,120,3547457,3547098,2.07e-49,199,90.83,"0/-1","flavus","XM_747819","cell wall",NA,7239,7239,2412,2005,1,"NA",NA
+"15","alb1","XM_751002.1",100,2146,0,0,1,2146,1,6438,0,4289,100,"0/1","fumigatus","XM_751002","cell wall","Conidial pigment polyketide synthase",6441,6441,2146,2006,2,"5",NA
+"16","alb1","BN001302.1",71.094,256,74,0,1337,1592,1138708,1137941,0,408,85.94,"0/-2","nidulans","XM_751002","cell wall","Conidial pigment polyketide synthase",6441,6441,2146,2006,2,"5",NA
+"17","alb1","CP051038.1",74.227,97,25,0,1,97,3008684,3008974,2.24e-58,149,80.41,"0/2","flavus","XM_751002","cell wall","Conidial pigment polyketide synthase",6441,6441,2146,2006,2,"5",NA
+"18","alb1","AP007162.1",74.227,97,25,0,1,97,1502768,1502478,2.58e-59,149,80.41,"0/-1","oryzae","XM_751002","cell wall","Conidial pigment polyketide synthase",6441,6441,2146,2006,2,"5",NA
+"19","alb1","AM270206.1",72.011,1422,376,4,190,1591,103933,99674,0,2193,84.95,"0/-1","niger","XM_751002","cell wall","Conidial pigment polyketide synthase",6441,6441,2146,2006,2,"5",NA
+"20","alb1","XM_001276034.1",86.459,2149,283,4,1,2146,4,6435,0,3764,92.74,"0/1","clavatus","XM_751002","cell wall","Conidial pigment polyketide synthase",6441,6441,2146,2006,2,"5",NA
+"21","alb1","XM_001215384.1",50.577,953,443,9,469,1404,1,2826,0,971,67.47,"0/1","terreus","XM_751002","cell wall","Conidial pigment polyketide synthase",6441,6441,2146,2006,2,"5",NA
+"22","areA","XM_001270340.1",82.127,884,150,6,1,881,1,2637,0,1285,89.59,"0/1","clavatus","XM_742787","nutrition","GATA transcriptional activator",2729,2646,881,2018,6,"2",NA
+"23","areA","AB225268.1",92.857,14,1,0,868,881,378,419,2.99e-07,28.5,92.86,"0/3","oryzae","XM_742787","nutrition","GATA transcriptional activator",2729,2646,881,2018,6,"2",NA
+"24","areA","XM_742787.1",100,881,0,0,1,881,1,2643,0,1520,100,"0/1","fumigatus","XM_742787","nutrition","GATA transcriptional activator",2729,2646,881,2018,6,"2",NA
+"25","areA","XM_001209950.1",70,840,196,23,59,881,49,2451,0,961,78.33,"0/1","terreus","XM_742787","nutrition","GATA transcriptional activator",2729,2646,881,2018,6,"2",NA
+"26","areA","XM_658733.1",78.049,41,9,0,680,720,76,198,5.81e-14,73.9,82.93,"0/1","nidulans","XM_742787","nutrition","GATA transcriptional activator",2729,2646,881,2018,6,"2",NA
+"27","areA","CP061804.1",72.973,740,173,10,150,881,5214702,5212540,0,907,81.35,"0/-1","flavus","XM_742787","nutrition","GATA transcriptional activator",2729,2646,881,2018,6,"2",NA
+"28","areA","XM_001399328.2",78.049,41,9,0,680,720,76,198,7.25e-14,74.7,82.93,"0/1","niger","XM_742787","nutrition","GATA transcriptional activator",2729,2646,881,2018,6,"2",NA
+"29","cat1","AB226050.1",95.161,124,6,0,86,209,301,672,0,215,96.77,"0/1","oryzae","XM_743457","response to stress","catalase peroxidase",2502,2187,728,2016,3,"5",NA
+"30","cat1","XM_743457.1",100,728,0,0,1,728,1,2184,0,1372,100,"0/1","fumigatus","XM_743457","response to stress","catalase peroxidase",2502,2187,728,2016,3,"5",NA
+"31","cat1","XM_001216098.1",79.533,728,131,3,1,728,1,2130,0,1112,86.4,"0/1","terreus","XM_743457","response to stress","catalase peroxidase",2502,2187,728,2016,3,"5",NA
+"32","cat1","BN001308.1",79.939,329,45,2,1,310,331121,330141,0,516,87.23,"0/-3","nidulans","XM_743457","response to stress","catalase peroxidase",2502,2187,728,2016,3,"5",NA
+"33","cat1","CP061806.1",92.254,142,11,0,171,312,3373821,3374246,1.81e-172,283,96.48,"0/3","flavus","XM_743457","response to stress","catalase peroxidase",2502,2187,728,2016,3,"5",NA
+"34","cat1","XM_025599682.1",79.258,728,147,2,1,727,71,2245,0,1113,87.5,"0/2","niger","XM_743457","response to stress","catalase peroxidase",2502,2187,728,2016,3,"5",NA
+"35","cat1","XM_001273664.1",87.912,728,88,0,1,728,1,2184,0,1246,93.41,"0/1","clavatus","XM_743457","response to stress","catalase peroxidase",2502,2187,728,2016,3,"5",NA
+"36","cat2","XM_001275125.1",86.316,760,103,1,1,759,1,2280,0,1333,92.11,"0/1","clavatus","AY125354","response to stress","catalase peroxidase",2280,2280,759,2003,8,"5",NA
+"37","cat2","CP051066.1",82.557,751,129,2,1,749,1512006,1509754,0,1263,89.35,"0/-3","flavus","AY125354","response to stress","catalase peroxidase",2280,2280,759,2003,8,"5",NA
+"38","cat2","AY125354.1",100,759,0,0,1,759,1210,3486,0,1533,100,"0/1","fumigatus","AY125354","response to stress","catalase peroxidase",2280,2280,759,2003,8,"5",NA
+"39","cat2","XM_001827620.3",82.888,748,126,2,4,749,7,2250,0,1264,89.57,"0/1","oryzae","AY125354","response to stress","catalase peroxidase",2280,2280,759,2003,8,"5",NA
+"40","cat2","BN001304.1",71.809,752,185,4,1,750,114525,112345,0,1087,81.38,"0/-1","nidulans","AY125354","response to stress","catalase peroxidase",2280,2280,759,2003,8,"5",NA
+"41","cat2","XM_001217043.1",79.161,763,129,6,1,759,1,2211,0,1209,86.11,"0/1","terreus","AY125354","response to stress","catalase peroxidase",2280,2280,759,2003,8,"5",NA
+"42","cat2","XM_025599678.1",76.64,762,175,2,1,759,174,2459,0,1196,85.43,"0/3","niger","AY125354","response to stress","catalase peroxidase",2280,2280,759,2003,8,"5",NA
+"43","cgrA","AP007175.1",86.667,30,4,0,20,49,1996556,1996467,8.81e-12,60.8,93.33,"0/-2","oryzae","XM_741839","thermotolerance","nucleolar function",540,345,114,2003,8,"2",NA
+"44","cgrA","CP051058.1",86.667,30,4,0,20,49,1344432,1344521,7.72e-11,60.8,93.33,"0/3","flavus","XM_741839","thermotolerance","nucleolar function",540,345,114,2003,8,"2",NA
+"45","cgrA","XM_001218735.1",78.378,74,16,0,1,74,1,222,6.6e-22,82.4,87.84,"0/1","terreus","XM_741839","thermotolerance","nucleolar function",540,345,114,2003,8,"2",NA
+"46","cgrA","AF146190.2",67.347,49,16,0,1,49,68,214,2.29e-16,71.6,73.47,"0/2","nidulans","XM_741839","thermotolerance","nucleolar function",540,345,114,2003,8,"2",NA
+"47","cgrA","XM_741839.1",100,95,0,0,1,95,1,285,4.13e-33,110,100,"0/1","fumigatus","XM_741839","thermotolerance","nucleolar function",540,345,114,2003,8,"2",NA
+"48","cgrA","XM_001275003.1",87.5,72,9,0,3,74,4,219,9.52e-24,86.7,90.28,"0/1","clavatus","XM_741839","thermotolerance","nucleolar function",540,345,114,2003,8,"2",NA
+"49","cgrA","AM270061.1",85.714,28,4,0,20,47,180053,179970,1.78e-10,57.4,96.43,"0/-1","niger","XM_741839","thermotolerance","nucleolar function",540,345,114,2003,8,"2",NA
+"50","chsC","X94245.1",100,137,0,0,32,168,866,1276,1.52e-84,286,100,"0/2","fumigatus","XM_743170","cell wall","chitin synthase C",2571,2571,893,1996,5,"3",NA
+"51","chsC","BN001307.1",91.667,120,10,0,170,289,4166725,4167084,0,243,98.33,"0/1","nidulans","XM_743170","cell wall","chitin synthase C",2571,2571,893,1996,5,"3",NA
+"52","chsC","CP051063.1",69.745,628,166,2,290,893,816809,818692,0,841,80.73,"0/2","flavus","XM_743170","cell wall","chitin synthase C",2571,2571,893,1996,5,"3",NA
+"53","chsC","XM_001276466.1",88.406,897,99,3,1,893,1,2688,0,1570,94.43,"0/1","clavatus","XM_743170","cell wall","chitin synthase C",2571,2571,893,1996,5,"3",NA
+"54","chsC","AM270291.1",96.667,120,4,0,170,289,13896,13537,0,254,100,"0/-3","niger","XM_743170","cell wall","chitin synthase C",2571,2571,893,1996,5,"3",NA
+"55","chsC","XM_001216547.1",84.392,897,135,5,1,893,1,2688,0,1455,90.41,"0/1","terreus","XM_743170","cell wall","chitin synthase C",2571,2571,893,1996,5,"3",NA
+"56","chsC","AB225484.1",87.819,353,43,0,208,560,1,1059,0,678,95.18,"0/1","oryzae","XM_743170","cell wall","chitin synthase C",2571,2571,893,1996,5,"3",NA
+"57","chsG","CP051063.1",89.331,628,43,2,308,911,816809,818692,0,1095,92.99,"0/2","flavus","X94244","cell wall","chitin synthase G",2736,2736,911,1995,3,"4",NA
+"58","chsG","XM_001271390.1",94.841,911,47,0,1,911,1,2733,0,1731,97.26,"0/1","clavatus","X94244","cell wall","chitin synthase G",2736,2736,911,1995,3,"4",NA
+"59","chsG","BN001307.1",97.5,120,3,0,188,307,4166725,4167084,4.04e-132,255,100,"0/1","nidulans","X94244","cell wall","chitin synthase G",2736,2736,911,1995,3,"4",NA
+"60","chsG","AB225484.1",95.506,356,16,0,226,581,1,1068,0,728,98.31,"0/1","oryzae","X94244","cell wall","chitin synthase G",2736,2736,911,1995,3,"4",NA
+"61","chsG","AM270199.1",94.872,39,2,0,867,905,101960,101844,3.68e-15,82,97.44,"0/-2","niger","X94244","cell wall","chitin synthase G",2736,2736,911,1995,3,"4",NA
+"62","chsG","XM_749091.1",100,911,0,0,1,911,1,2733,0,1811,100,"0/1","fumigatus","X94244","cell wall","chitin synthase G",2736,2736,911,1995,3,"4",NA
+"63","chsG","XM_001212681.1",89.749,917,86,5,1,911,1,2745,0,1659,94.22,"0/1","terreus","X94244","cell wall","chitin synthase G",2736,2736,911,1995,3,"4",NA
+"64","cnaA","XM_001215693.1",94.22,519,30,0,16,534,109,1665,0,982,98.07,"0/1","terreus","XM_748610","signal and metabolic regulation","calcineurin catalytic subunit",1913,1677,534,2005,5,"4",NA
+"65","cnaA","XM_001274118.1",95.514,535,23,1,1,534,73,1677,0,1014,98.5,"0/1","clavatus","XM_748610","signal and metabolic regulation","calcineurin catalytic subunit",1913,1677,534,2005,5,"4",NA
+"66","cnaA","XM_676997.1",92.381,525,37,1,1,522,1,1575,0,972,96.76,"0/1","nidulans","XM_748610","signal and metabolic regulation","calcineurin catalytic subunit",1913,1677,534,2005,5,"4",NA
+"67","cnaA","XM_748610.1",100,534,0,0,1,534,73,1674,0,1048,100,"0/1","fumigatus","XM_748610","signal and metabolic regulation","calcineurin catalytic subunit",1913,1677,534,2005,5,"4",NA
+"68","cnaA","AP007167.1",95,20,1,0,515,534,1407300,1407241,0,38.9,100,"0/-2","oryzae","XM_748610","signal and metabolic regulation","calcineurin catalytic subunit",1913,1677,534,2005,5,"4",NA
+"69","cnaA","XM_025596300.1",92.724,536,37,1,1,534,546,2153,0,1004,96.64,"0/3","niger","XM_748610","signal and metabolic regulation","calcineurin catalytic subunit",1913,1677,534,2005,5,"4",NA
+"70","cnaA","CP051064.1",95,20,1,0,515,534,533977,534036,0,38.9,100,"0/1","flavus","XM_748610","signal and metabolic regulation","calcineurin catalytic subunit",1913,1677,534,2005,5,"4",NA
+"71","cpcA","XM_746491.1",100,252,0,0,1,252,1,756,2.03e-141,395,100,"0/1","fumigatus","XM_746491","signal and metabolic regulation","cross-pathway control protein A",810,759,252,2004,4,"2",NA
+"72","cpcA","CP051075.1",64.338,272,73,3,1,252,1194827,1195630,1.89e-87,286,72.79,"0/2","flavus","XM_746491","signal and metabolic regulation","cross-pathway control protein A",810,759,252,2004,4,"2",NA
+"73","cpcA","XM_001272098.1",76.68,253,58,1,1,252,1,759,4.35e-117,333,83.79,"0/1","clavatus","XM_746491","signal and metabolic regulation","cross-pathway control protein A",810,759,252,2004,4,"2",NA
+"74","cpcA","XM_656187.1",56.25,272,89,5,1,252,1,786,7.48e-80,241,66.18,"0/1","nidulans","XM_746491","signal and metabolic regulation","cross-pathway control protein A",810,759,252,2004,4,"2",NA
+"75","cpcA","XM_001212309.1",67.984,253,80,1,1,252,1,759,2.16e-105,304,76.28,"0/1","terreus","XM_746491","signal and metabolic regulation","cross-pathway control protein A",810,759,252,2004,4,"2",NA
+"76","cpcA","XM_001816865.3",69.444,252,73,2,1,252,1,744,8.92e-103,299,78.57,"0/1","oryzae","XM_746491","signal and metabolic regulation","cross-pathway control protein A",810,759,252,2004,4,"2",NA
+"77","cpcA","AM269976.1",78.205,78,17,0,173,250,3249,3482,1.05e-32,127,89.74,"0/3","niger","XM_746491","signal and metabolic regulation","cross-pathway control protein A",810,759,252,2004,4,"2",NA
+"78","crzA","XM_001269467.1",75.765,784,155,10,1,754,1,2337,0,940,82.91,"0/1","clavatus","XM_745346","signal and metabolic regulation","C2H2 finger domain transcription factor",2322,2265,754,2016,1,"5",NA
+"79","crzA","BN001305.1",77.451,306,63,4,453,754,1625162,1626073,0,373,86.93,"0/2","nidulans","XM_745346","signal and metabolic regulation","C2H2 finger domain transcription factor",2322,2265,754,2016,1,"5",NA
+"80","crzA","XM_001212106.1",69.33,701,185,16,68,754,109,2163,0,747,79.46,"0/1","terreus","XM_745346","signal and metabolic regulation","C2H2 finger domain transcription factor",2322,2265,754,2016,1,"5",NA
+"81","crzA","CP051036.1",66.416,798,202,17,1,754,1287447,1285120,0,791,75.31,"0/-1","flavus","XM_745346","signal and metabolic regulation","C2H2 finger domain transcription factor",2322,2265,754,2016,1,"5",NA
+"82","crzA","XM_745346.1",100,754,0,0,1,754,1,2262,0,1232,100,"0/1","fumigatus","XM_745346","signal and metabolic regulation","C2H2 finger domain transcription factor",2322,2265,754,2016,1,"5",NA
+"83","crzA","AB229340.1",69.663,178,48,3,284,458,2,526,1.77e-64,213,80.9,"0/2","oryzae","XM_745346","signal and metabolic regulation","C2H2 finger domain transcription factor",2322,2265,754,2016,1,"5",NA
+"84","crzA","AM270410.1",80.132,302,59,1,453,754,1993,1091,0,397,88.08,"0/-1","niger","XM_745346","signal and metabolic regulation","C2H2 finger domain transcription factor",2322,2265,754,2016,1,"5",NA
+"85","dvrA","XM_001270981.1",85.056,629,91,3,1,627,1,1884,0,979,90.94,"0/1","clavatus","XM_749544","signal and metabolic regulation","C2H2 finger domain transcription factor",2100,2040,679,2016,3,"3",NA
+"86","dvrA","BN001303.1",62.5,56,16,3,623,678,312198,312046,2.31e-09,61.6,71.43,"0/-2","nidulans","XM_749544","signal and metabolic regulation","C2H2 finger domain transcription factor",2100,2040,679,2016,3,"3",NA
+"87","dvrA","XM_749544.2",100,679,0,0,1,679,1,2037,0,1294,100,"0/1","fumigatus","XM_749544","signal and metabolic regulation","C2H2 finger domain transcription factor",2100,2040,679,2016,3,"3",NA
+"88","dvrA","CP051059.1",70.159,630,162,10,1,623,2554540,2556372,0,743,78.73,"0/1","flavus","XM_749544","signal and metabolic regulation","C2H2 finger domain transcription factor",2100,2040,679,2016,3,"3",NA
+"89","dvrA","AM270365.1",69.968,626,162,11,1,623,16703,18511,0,743,78.75,"0/2","niger","XM_749544","signal and metabolic regulation","C2H2 finger domain transcription factor",2100,2040,679,2016,3,"3",NA
+"90","dvrA","AB227031.1",92.941,170,10,1,96,265,45,548,2.92e-89,276,95.29,"0/3","oryzae","XM_749544","signal and metabolic regulation","C2H2 finger domain transcription factor",2100,2040,679,2016,3,"3",NA
+"91","dvrA","XM_001213684.1",69.558,611,162,12,1,608,1,1770,0,704,78.56,"0/1","terreus","XM_749544","signal and metabolic regulation","C2H2 finger domain transcription factor",2100,2040,679,2016,3,"3",NA
+"92","ecm33","XM_747051.1",100,378,0,0,21,398,61,1194,0,640,100,"0/1","fumigatus","XM_747051","cell wall","unknown",1323,1197,398,2005,4,"4",NA
+"93","ecm33","XM_001271570.1",80.106,377,74,1,22,398,64,1191,0,511,89.92,"0/1","clavatus","XM_747051","cell wall","unknown",1323,1197,398,2005,4,"4",NA
+"94","ecm33","CP051045.1",62.155,399,127,4,22,398,2246387,2245197,1.94e-126,405,75.19,"0/-3","flavus","XM_747051","cell wall","unknown",1323,1197,398,2005,4,"4",NA
+"95","ecm33","AM270068.1",70.522,268,79,0,34,301,41838,42641,6.56e-107,347,83.21,"0/3","niger","XM_747051","cell wall","unknown",1323,1197,398,2005,4,"4",NA
+"96","ecm33","XM_656902.1",60.582,378,147,2,21,398,61,1188,1.47e-139,404,79.89,"0/1","nidulans","XM_747051","cell wall","unknown",1323,1197,398,2005,4,"4",NA
+"97","ecm33","AB223396.1",78.571,42,9,0,114,155,489,614,2.75e-23,65.5,88.1,"0/3","oryzae","XM_747051","cell wall","unknown",1323,1197,398,2005,4,"4",NA
+"98","ecm33","XM_001214727.1",65.782,377,126,2,21,397,61,1182,5.5e-150,429,79.58,"0/1","terreus","XM_747051","cell wall","unknown",1323,1197,398,2005,4,"4",NA
+"99","gel2","CP051061.1",84.091,44,7,0,5,48,1262818,1262687,2.39e-08,60.8,90.91,"0/-3","flavus","XM_745929","cell wall","beta (1-3) glucanosyltransferase",1698,1428,475,2000,6,"4",NA
+"100","gel2","XM_001268235.1",76.844,488,99,3,2,475,1,1464,0,756,87.91,"0/1","clavatus","XM_745929","cell wall","beta (1-3) glucanosyltransferase",1698,1428,475,2000,6,"4",NA
+"101","gel2","AP007157.1",84.091,44,7,0,5,48,1217981,1217850,2.73e-09,60.8,90.91,"0/-1","oryzae","XM_745929","cell wall","beta (1-3) glucanosyltransferase",1698,1428,475,2000,6,"4",NA
+"102","gel2","XM_745929.1",100,475,0,0,1,475,1,1425,0,933,100,"0/1","fumigatus","XM_745929","cell wall","beta (1-3) glucanosyltransferase",1698,1428,475,2000,6,"4",NA
+"103","gel2","XM_653070.1",72.131,427,117,1,1,425,1,1281,0,634,84.54,"0/1","nidulans","XM_745929","cell wall","beta (1-3) glucanosyltransferase",1698,1428,475,2000,6,"4",NA
+"104","gel2","XM_001214209.1",70.105,475,131,3,2,473,1,1401,0,665,83.37,"0/1","terreus","XM_745929","cell wall","beta (1-3) glucanosyltransferase",1698,1428,475,2000,6,"4",NA
+"105","gel2","AM270172.1",81.818,44,8,0,4,47,14202,14071,1.15e-07,55.8,88.64,"0/-3","niger","XM_745929","cell wall","beta (1-3) glucanosyltransferase",1698,1428,475,2000,6,"4",NA
+"106","glfA","XM_655624.1",91.176,510,45,0,1,510,67,1596,0,992,96.67,"0/1","nidulans","FJ746724","cell wall","UDP-galactopyranose mutase",1882,1533,510,2009,3,"1",NA
+"107","glfA","AJ871145.2",100,510,0,0,1,510,1,1530,0,1068,100,"0/1","fumigatus","FJ746724","cell wall","UDP-galactopyranose mutase",1882,1533,510,2009,3,"1",NA
+"108","glfA","AB226201.1",95.604,91,4,0,418,508,1399,1671,1.97e-163,185,97.8,"0/1","oryzae","FJ746724","cell wall","UDP-galactopyranose mutase",1882,1533,510,2009,3,"1",NA
+"109","glfA","XM_001271262.1",96.078,510,20,0,1,510,67,1596,0,1040,98.82,"0/1","clavatus","FJ746724","cell wall","UDP-galactopyranose mutase",1882,1533,510,2009,3,"1",NA
+"110","glfA","AM270022.1",100,23,0,0,7,29,48345,48277,0,48.1,100,"0/-3","niger","FJ746724","cell wall","UDP-galactopyranose mutase",1882,1533,510,2009,3,"1",NA
+"111","glfA","XM_001213306.1",93.333,510,34,0,1,510,1,1530,0,1009,97.25,"0/1","terreus","FJ746724","cell wall","UDP-galactopyranose mutase",1882,1533,510,2009,3,"1",NA
+"112","glfA","CP051062.1",79.61,564,53,4,7,508,2229002,2230693,0,902,83.87,"0/2","flavus","FJ746724","cell wall","UDP-galactopyranose mutase",1882,1533,510,2009,3,"1",NA
+"113","gliP","XM_025603869.1",29.965,564,353,12,8,563,1582,3171,3.35e-42,171,44.33,"0/1","niger","XM_745762","toxins","non-ribosomal peptide synthetase",6505,6408,2135,2006,6,"5",NA
+"114","gliP","XM_001276711.1",37.5,64,40,0,2067,2130,3079,3270,2.23e-05,48.5,56.25,"0/1","clavatus","XM_745762","toxins","non-ribosomal peptide synthetase",6505,6408,2135,2006,6,"5",NA
+"115","gliP","XM_745762.1",100,2135,0,0,1,2135,1,6405,0,4263,100,"0/1","fumigatus","XM_745762","toxins","non-ribosomal peptide synthetase",6505,6408,2135,2006,6,"5",NA
+"116","gliP","AP007171.1",39.326,89,42,4,120,199,1591452,1591195,2.68e-05,50.4,55.06,"0/-1","oryzae","XM_745762","toxins","non-ribosomal peptide synthetase",6505,6408,2135,2006,6,"5",NA
+"117","gliP","CP051074.1",38.71,62,38,0,2067,2128,868649,868464,0.042,43.1,53.23,"0/-1","flavus","XM_745762","toxins","non-ribosomal peptide synthetase",6505,6408,2135,2006,6,"5",NA
+"118","gliP","XM_001218652.1",41.379,58,32,1,2072,2127,2272,2445,0.001,43.5,58.62,"0/1","terreus","XM_745762","toxins","non-ribosomal peptide synthetase",6505,6408,2135,2006,6,"5",NA
+"119","gliP","BN001306.1",43.243,74,38,1,19,88,360851,360630,1.55e-06,54.3,55.41,"0/-2","nidulans","XM_745762","toxins","non-ribosomal peptide synthetase",6505,6408,2135,2006,6,"5",NA
+"120","gpaB","XM_001268964.1",96.067,356,14,0,1,356,1,1068,0,690,97.75,"0/1","clavatus","XM_747570","signal and metabolic regulation","guanine nucleotide binding alpha subunit",1394,1071,356,2007,1,"2",NA
+"121","gpaB","CP051086.1",62.527,459,68,8,1,356,1549528,1550901,1.51e-157,493,68.63,"0/1","flavus","XM_747570","signal and metabolic regulation","guanine nucleotide binding alpha subunit",1394,1071,356,2007,1,"2",NA
+"122","gpaB","XM_025594158.1",91.292,356,31,0,1,356,1,1068,0,665,96.91,"0/1","niger","XM_747570","signal and metabolic regulation","guanine nucleotide binding alpha subunit",1394,1071,356,2007,1,"2",NA
+"123","gpaB","AF198116.1",97.674,43,1,0,202,244,3012,3140,1.79e-20,93.6,97.67,"0/3","nidulans","XM_747570","signal and metabolic regulation","guanine nucleotide binding alpha subunit",1394,1071,356,2007,1,"2",NA
+"124","gpaB","XM_747570.1",100,356,0,0,1,356,1,1068,0,713,100,"0/1","fumigatus","XM_747570","signal and metabolic regulation","guanine nucleotide binding alpha subunit",1394,1071,356,2007,1,"2",NA
+"125","gpaB","XM_001727538.3",91.011,356,31,1,1,356,1,1065,0,656,96.91,"0/1","oryzae","XM_747570","signal and metabolic regulation","guanine nucleotide binding alpha subunit",1394,1071,356,2007,1,"2",NA
+"126","gpaB","XM_001210574.1",84.94,332,32,1,43,356,94,1089,0,593,90.66,"0/1","terreus","XM_747570","signal and metabolic regulation","guanine nucleotide binding alpha subunit",1394,1071,356,2007,1,"2",NA
+"127","ireA","BN001308.1",92.053,151,12,0,996,1146,4143531,4143079,6.7e-82,296,95.36,"0/-2","nidulans","XM_744829","response to stress","threonine protein kinase",3441,3441,1146,2013,1,"2",NA
+"128","ireA","XM_001269969.1",87.739,1150,134,7,1,1146,1,3441,0,1860,92.96,"0/1","clavatus","XM_744829","response to stress","threonine protein kinase",3441,3441,1146,2013,1,"2",NA
+"129","ireA","AB225494.1",90.234,256,25,0,888,1143,2,769,6.33e-163,485,94.14,"0/2","oryzae","XM_744829","response to stress","threonine protein kinase",3441,3441,1146,2013,1,"2",NA
+"130","ireA","CP051035.1",83.176,1165,167,8,1,1143,4164082,4160609,0,1777,90.21,"0/-1","flavus","XM_744829","response to stress","threonine protein kinase",3441,3441,1146,2013,1,"2",NA
+"131","ireA","AM269971.1",94.631,149,8,0,995,1143,48334,48780,3.54e-82,297,96.64,"0/1","niger","XM_744829","response to stress","threonine protein kinase",3441,3441,1146,2013,1,"2",NA
+"132","ireA","XM_001214102.1",82.174,1150,196,7,1,1143,1,3444,0,1767,90.7,"0/1","terreus","XM_744829","response to stress","threonine protein kinase",3441,3441,1146,2013,1,"2",NA
+"133","ireA","JN653078.2",100,1146,0,0,1,1146,16,3453,0,2128,100,"0/1","fumigatus","XM_744829","response to stress","threonine protein kinase",3441,3441,1146,2013,1,"2",NA
+"134","laeA","XM_023234912.1",83.162,291,49,0,80,370,10,882,0,537,94.16,"0/1","oryzae","XM_747742","toxins","methyltrasferase",1276,1122,373,2004,1,"5",NA
+"135","laeA","XM_001268792.1",90.617,373,34,1,1,373,1,1116,0,720,96.25,"0/1","clavatus","XM_747742","toxins","methyltrasferase",1276,1122,373,2004,1,"5",NA
+"136","laeA","XM_747742.1",100,373,0,0,1,373,1,1119,0,780,100,"0/1","fumigatus","XM_747742","toxins","methyltrasferase",1276,1122,373,2004,1,"5",NA
+"137","laeA","KY425750.1",83.045,289,49,0,85,373,1319,2185,0,530,94.81,"0/2","terreus","XM_747742","toxins","methyltrasferase",1276,1122,373,2004,1,"5",NA
+"138","laeA","AY883016.1",83.162,291,49,0,80,370,1489,2361,6.59e-180,536,94.16,"0/1","flavus","XM_747742","toxins","methyltrasferase",1276,1122,373,2004,1,"5",NA
+"139","laeA","AM269986.1",80.339,295,58,0,76,370,3021,3905,4.96e-167,518,91.86,"0/3","niger","XM_747742","toxins","methyltrasferase",1276,1122,373,2004,1,"5",NA
+"140","laeA","AY394722.1",82.313,294,52,0,78,371,1010,1891,0,534,93.54,"0/2","nidulans","XM_747742","toxins","methyltrasferase",1276,1122,373,2004,1,"5",NA
+"141","mcsA","XM_742625.1",100,465,0,0,1,465,1,1395,0,922,100,"0/1","fumigatus","XM_742625","signal and metabolic regulation","methylcitrate synthase",1520,1398,465,2005,6,"5",NA
+"142","mcsA","XM_001270185.1",93.991,466,27,1,1,465,1,1398,0,869,96.78,"0/1","clavatus","XM_742625","signal and metabolic regulation","methylcitrate synthase",1520,1398,465,2005,6,"5",NA
+"143","mcsA","BN001301.1",100,66,0,0,400,465,2679584,2679387,0,140,100,"0/-1","nidulans","XM_742625","signal and metabolic regulation","methylcitrate synthase",1520,1398,465,2005,6,"5",NA
+"144","mcsA","XM_025592457.1",87.716,464,52,3,1,463,218,1597,0,805,93.75,"0/2","niger","XM_742625","signal and metabolic regulation","methylcitrate synthase",1520,1398,465,2005,6,"5",NA
+"145","mcsA","CP051059.1",100,66,0,0,400,465,1077357,1077554,0,140,100,"0/3","flavus","XM_742625","signal and metabolic regulation","methylcitrate synthase",1520,1398,465,2005,6,"5",NA
+"146","mcsA","XM_001209805.1",90.323,465,42,2,1,465,1,1386,0,830,94.84,"0/1","terreus","XM_742625","signal and metabolic regulation","methylcitrate synthase",1520,1398,465,2005,6,"5",NA
+"147","mcsA","AP007150.1",100,66,0,0,400,465,1496010,1496207,0,140,100,"0/3","oryzae","XM_742625","signal and metabolic regulation","methylcitrate synthase",1520,1398,465,2005,6,"5",NA
+"148","pes1","XM_001269224.1",73.735,6286,1610,23,1,6269,1,18786,0,9394,85.08,"0/1","clavatus","XM_747311","response to stress","peptide synthase",18810,18810,6269,2018,1,"4",NA
+"149","pes1","CP051064.1",62.156,1419,502,10,4869,6264,2716646,2712426,0,1801,77.31,"0/-2","flavus","XM_747311","response to stress","peptide synthase",18810,18810,6269,2018,1,"4",NA
+"150","pes1","BN001308.1",59.54,1001,402,2,3650,4647,1027557,1024555,0,1249,76.32,"0/-2","nidulans","XM_747311","response to stress","peptide synthase",18810,18810,6269,2018,1,"4",NA
+"151","pes1","XM_747311.1",100,6269,0,0,1,6269,1,18807,0,12625,100,"0/1","fumigatus","XM_747311","response to stress","peptide synthase",18810,18810,6269,2018,1,"4",NA
+"152","pes1","AP007169.1",62.156,1419,502,10,4869,6264,1023759,1027979,0,1801,77.31,"0/3","oryzae","XM_747311","response to stress","peptide synthase",18810,18810,6269,2018,1,"4",NA
+"153","pes1","XM_001210314.1",58.239,3702,1460,22,2596,6266,6538,17478,0,4364,74.88,"0/1","terreus","XM_747311","response to stress","peptide synthase",18810,18810,6269,2018,1,"4",NA
+"154","pes1","AM270164.2",61.661,879,306,8,5410,6268,2610,7,0,1060,77.25,"0/-2","niger","XM_747311","response to stress","peptide synthase",18810,18810,6269,2018,1,"4",NA
+"155","pig","XM_001268577.1",90.515,485,46,0,1,485,1,1455,0,907,94.64,"0/1","clavatus","XM_747970","cell wall","GlcNAc-PI synthesis protein",1467,1467,489,2007,1,"5",NA
+"156","pig","CP051059.1",90.909,22,2,0,1,22,3301726,3301791,1.36e-76,48.1,95.45,"0/1","flavus","XM_747970","cell wall","GlcNAc-PI synthesis protein",1467,1467,489,2007,1,"5",NA
+"157","pig","AY566274.1",100,489,0,0,1,489,1,1467,0,1017,100,"0/1","fumigatus","XM_747970","cell wall","GlcNAc-PI synthesis protein",1467,1467,489,2007,1,"5",NA
+"158","pig","AP007151.1",90.909,22,2,0,1,22,2618705,2618640,2.43e-77,48.1,95.45,"0/-2","oryzae","XM_747970","cell wall","GlcNAc-PI synthesis protein",1467,1467,489,2007,1,"5",NA
+"159","pig","XM_025601745.1",87.395,476,38,2,1,472,19,1392,0,864,91.18,"0/1","niger","XM_747970","cell wall","GlcNAc-PI synthesis protein",1467,1467,489,2007,1,"5",NA
+"160","pig","XM_653148.1",87.137,482,59,3,1,480,19,1461,0,871,92.95,"0/1","nidulans","XM_747970","cell wall","GlcNAc-PI synthesis protein",1467,1467,489,2007,1,"5",NA
+"161","pig","XM_001214282.1",87.654,486,53,3,1,486,1,1437,0,884,91.77,"0/1","terreus","XM_747970","cell wall","GlcNAc-PI synthesis protein",1467,1467,489,2007,1,"5",NA
+"162","pkaC1","XM_750459.1",100,490,0,0,1,490,1,1470,0,865,100,"0/1","fumigatus","XM_750459","signal and metabolic regulation","protein kinase A catalytic subunit 1",1651,1473,490,2006,2,"3",NA
+"163","pkaC1","CP061809.1",87.554,233,7,1,273,483,1263380,1264078,1.68e-130,421,88.41,"0/2","flavus","XM_750459","signal and metabolic regulation","protein kinase A catalytic subunit 1",1651,1473,490,2006,2,"3",NA
+"164","pkaC1","X94399.2",93.893,131,8,0,358,488,1884,2276,1.21e-76,262,95.42,"0/3","niger","XM_750459","signal and metabolic regulation","protein kinase A catalytic subunit 1",1651,1473,490,2006,2,"3",NA
+"165","pkaC1","AP007159.1",87.554,233,7,1,273,483,1202999,1203697,1.92e-131,421,88.41,"0/2","oryzae","XM_750459","signal and metabolic regulation","protein kinase A catalytic subunit 1",1651,1473,490,2006,2,"3",NA
+"166","pkaC1","XM_001275500.1",87.531,409,32,2,101,490,1,1227,0,716,90.95,"0/1","clavatus","XM_750459","signal and metabolic regulation","protein kinase A catalytic subunit 1",1651,1473,490,2006,2,"3",NA
+"167","pkaC1","BN001301.1",96.471,85,3,0,273,357,604298,604044,0,176,97.65,"0/-1","nidulans","XM_750459","signal and metabolic regulation","protein kinase A catalytic subunit 1",1651,1473,490,2006,2,"3",NA
+"168","pkaC1","XM_001208522.1",79.352,494,82,6,1,490,1,1434,0,737,85.22,"0/1","terreus","XM_750459","signal and metabolic regulation","protein kinase A catalytic subunit 1",1651,1473,490,2006,2,"3",NA
+"169","pkaR","AJ277652.1",100,413,0,0,1,413,178,1416,0,802,100,"0/1","fumigatus","AF401202","signal and metabolic regulation","cAMP-dependent kinase regulatory subunit",1242,1242,413,2002,3,"4",NA
+"170","pkaR","CP051060.1",78.155,412,86,4,5,413,3841655,3842887,0,614,86.65,"0/2","flavus","AF401202","signal and metabolic regulation","cAMP-dependent kinase regulatory subunit",1242,1242,413,2002,3,"4",NA
+"171","pkaR","XM_001271000.1",83.453,417,61,2,1,413,1,1239,0,691,89.45,"0/1","clavatus","AF401202","signal and metabolic regulation","cAMP-dependent kinase regulatory subunit",1242,1242,413,2002,3,"4",NA
+"172","pkaR","BN001303.1",79.064,406,84,1,6,411,363211,364425,0,622,85.22,"0/1","nidulans","AF401202","signal and metabolic regulation","cAMP-dependent kinase regulatory subunit",1242,1242,413,2002,3,"4",NA
+"173","pkaR","XM_001213702.1",69.784,417,72,5,5,411,10,1128,0,553,76.74,"0/1","terreus","AF401202","signal and metabolic regulation","cAMP-dependent kinase regulatory subunit",1242,1242,413,2002,3,"4",NA
+"174","pkaR","XM_001819651.3",78.155,412,86,4,5,413,10,1242,0,614,86.65,"0/1","oryzae","AF401202","signal and metabolic regulation","cAMP-dependent kinase regulatory subunit",1242,1242,413,2002,3,"4",NA
+"175","pkaR","XM_025592371.1",79.756,410,80,3,5,413,205,1428,0,630,86.59,"0/1","niger","AF401202","signal and metabolic regulation","cAMP-dependent kinase regulatory subunit",1242,1242,413,2002,3,"4",NA
+"176","ppoA","AB228017.1",85.465,172,25,0,233,404,4,519,1.55e-96,304,95.35,"0/1","oryzae","XM_746657","response to stress","cyclooxygenase-like fatty acid oxigenase",3565,3240,1079,2007,4,"4",NA
+"177","ppoA","XM_746657.1",100,1079,0,0,1,1079,1,3237,0,2222,100,"0/1","fumigatus","XM_746657","response to stress","cyclooxygenase-like fatty acid oxigenase",3565,3240,1079,2007,4,"4",NA
+"178","ppoA","CP047250.1",83.471,726,120,0,203,928,5198414,5196237,0,1281,92.56,"0/-1","flavus","XM_746657","response to stress","cyclooxygenase-like fatty acid oxigenase",3565,3240,1079,2007,4,"4",NA
+"179","ppoA","XM_025598238.1",76.787,1077,250,0,1,1077,211,3441,0,1781,89.51,"0/1","niger","XM_746657","response to stress","cyclooxygenase-like fatty acid oxigenase",3565,3240,1079,2007,4,"4",NA
+"180","ppoA","AY502073.1",79.63,108,22,0,972,1079,3236,3559,1.43e-65,192,89.81,"0/2","nidulans","XM_746657","response to stress","cyclooxygenase-like fatty acid oxigenase",3565,3240,1079,2007,4,"4",NA
+"181","ppoA","XM_001213170.1",75.869,1065,257,0,12,1076,7,3201,0,1741,89.48,"0/1","terreus","XM_746657","response to stress","cyclooxygenase-like fatty acid oxigenase",3565,3240,1079,2007,4,"4",NA
+"182","ppoA","XM_001271947.1",89.518,1078,113,0,1,1078,1,3234,0,2041,96.2,"0/1","clavatus","XM_746657","response to stress","cyclooxygenase-like fatty acid oxigenase",3565,3240,1079,2007,4,"4",NA
+"183","ppoB","XM_001271207.1",58.564,1086,444,4,28,1112,106,3348,0,1339,75.32,"0/1","clavatus","XM_741345","response to stress","putative dioxygenase",3807,3411,1136,2011,4,"2",NA
+"184","ppoB","AM270019.1",85.47,117,17,0,500,616,58043,57693,0,214,92.31,"0/-1","niger","XM_741345","response to stress","putative dioxygenase",3807,3411,1136,2011,4,"2",NA
+"185","ppoB","HQ832882.1",100,1136,0,0,1,1136,1,3408,0,2373,100,"0/1","fumigatus","XM_741345","response to stress","putative dioxygenase",3807,3411,1136,2011,4,"2",NA
+"186","ppoB","CP047250.1",76.923,39,9,0,357,395,4161229,4161113,0,65.1,82.05,"0/-2","flavus","XM_741345","response to stress","putative dioxygenase",3807,3411,1136,2011,4,"2",NA
+"187","ppoB","BN001301.1",59.42,69,28,0,560,628,547911,548117,5.8e-40,93.2,78.26,"0/3","nidulans","XM_741345","response to stress","putative dioxygenase",3807,3411,1136,2011,4,"2",NA
+"188","ppoB","JQ034366.1",64.178,1058,377,2,60,1115,199,3372,0,1462,79.11,"0/1","terreus","XM_741345","response to stress","putative dioxygenase",3807,3411,1136,2011,4,"2",NA
+"189","ppoB","AP007175.1",87.5,80,10,0,166,245,1558401,1558162,0,153,95,"0/-1","oryzae","XM_741345","response to stress","putative dioxygenase",3807,3411,1136,2011,4,"2",NA
+"190","ppoC","CP047250.1",84.615,39,6,0,364,402,4161229,4161113,0,71.2,84.62,"0/-2","flavus","XM_749316","response to stress","linoleate 10R-lipoxygenase",4062,2664,1121,2016,3,"5",NA
+"191","ppoC","XM_001271207.1",81.818,1122,198,3,1,1121,1,3351,0,1848,90.82,"0/1","clavatus","XM_749316","response to stress","linoleate 10R-lipoxygenase",4062,2664,1121,2016,3,"5",NA
+"192","ppoC","XM_749316.2",100,1121,0,0,1,1121,1,3363,0,2219,100,"0/1","fumigatus","XM_749316","response to stress","linoleate 10R-lipoxygenase",4062,2664,1121,2016,3,"5",NA
+"193","ppoC","JQ034365.1",69.34,1122,321,5,1,1121,1,3300,0,1560,80.75,"0/1","terreus","XM_749316","response to stress","linoleate 10R-lipoxygenase",4062,2664,1121,2016,3,"5",NA
+"194","ppoC","AP007155.1",84.615,39,6,0,364,402,2078359,2078243,0,71.2,84.62,"0/-2","oryzae","XM_749316","response to stress","linoleate 10R-lipoxygenase",4062,2664,1121,2016,3,"5",NA
+"195","ppoC","BN001303.1",76.991,113,25,1,400,512,238194,237859,0,185,84.96,"0/-2","nidulans","XM_749316","response to stress","linoleate 10R-lipoxygenase",4062,2664,1121,2016,3,"5",NA
+"196","ppoC","AM270019.1",86.066,122,17,0,508,629,58043,57678,0,224,95.08,"0/-1","niger","XM_749316","response to stress","linoleate 10R-lipoxygenase",4062,2664,1121,2016,3,"5",NA
+"197","rasA","XM_748433.1",100,213,0,0,1,213,1,639,1.85e-151,418,100,"0/1","fumigatus","XM_749526","signal and metabolic regulation","ras GTPase",942,642,213,2006,5,"4",NA
+"198","rasA","XM_001216330.1",96.714,213,7,0,1,213,1,639,1e-147,408,99.06,"0/1","terreus","XM_749526","signal and metabolic regulation","ras GTPase",942,642,213,2006,5,"4",NA
+"199","rasA","XM_025593036.1",95.305,213,9,1,1,213,498,1133,4.51e-140,398,99.06,"0/3","niger","XM_749526","signal and metabolic regulation","ras GTPase",942,642,213,2006,5,"4",NA
+"200","rasA","BN001308.1",100,38,0,0,5,42,4294993,4294880,4.41e-97,60.1,100,"0/-1","nidulans","XM_749526","signal and metabolic regulation","ras GTPase",942,642,213,2006,5,"4",NA
+"201","rasA","XM_001274415.1",97.183,213,6,0,1,213,1,639,3.01e-147,407,99.06,"0/1","clavatus","XM_749526","signal and metabolic regulation","ras GTPase",942,642,213,2006,5,"4",NA
+"202","rasA","XM_001822082.3",96.244,213,8,0,1,213,1,639,5.26e-145,403,98.12,"0/1","oryzae","XM_749526","signal and metabolic regulation","ras GTPase",942,642,213,2006,5,"4",NA
+"203","rasA","CP061809.1",84.021,194,8,1,43,213,1999951,2000532,1.87e-101,325,86.08,"0/1","flavus","XM_749526","signal and metabolic regulation","ras GTPase",942,642,213,2006,5,"4",NA
+"204","rasB","AY266674.1",100,239,0,0,1,239,13,729,6.9e-144,401,100,"0/1","fumigatus","XM_750019 ","signal and metabolic regulation","ras GTPase",732,732,239,2006,2,"2",NA
+"205","rasB","XM_001267716.1",93.724,239,15,0,1,239,13,729,1.76e-131,369,96.65,"0/1","clavatus","XM_750019 ","signal and metabolic regulation","ras GTPase",732,732,239,2006,2,"2",NA
+"206","rasB","XM_658344.1",84.937,239,18,3,1,239,13,675,2.07e-113,324,87.45,"0/1","nidulans","XM_750019 ","signal and metabolic regulation","ras GTPase",732,732,239,2006,2,"2",NA
+"207","rasB","CP051065.1",94.037,218,12,1,23,239,2470679,2470026,1.64e-111,355,96.33,"0/-1","flavus","XM_750019 ","signal and metabolic regulation","ras GTPase",732,732,239,2006,2,"2",NA
+"208","rasB","XM_025605159.1",89.167,240,22,3,1,239,196,906,2.59e-120,346,91.67,"0/1","niger","XM_750019 ","signal and metabolic regulation","ras GTPase",732,732,239,2006,2,"2",NA
+"209","rasB","XM_001826428.1",94.583,240,12,1,1,239,13,732,1.01e-132,374,96.67,"0/1","oryzae","XM_750019 ","signal and metabolic regulation","ras GTPase",732,732,239,2006,2,"2",NA
+"210","rasB","XM_001209587.1",94.142,239,14,0,1,239,13,729,2.09e-135,379,98.33,"0/1","terreus","XM_750019 ","signal and metabolic regulation","ras GTPase",732,732,239,2006,2,"2",NA
+"211","rhbA","XM_001218101.1",92.513,187,14,0,1,187,1,561,6.77e-131,363,97.33,"0/1","terreus","XM_748989","signal and metabolic regulation","small monomeric GTPase",564,564,187,2018,5,"2",NA
+"212","rhbA","XM_748989.1",100,187,0,0,1,187,1,561,1.44e-140,388,100,"0/1","fumigatus","XM_748989","signal and metabolic regulation","small monomeric GTPase",564,564,187,2018,5,"2",NA
+"213","rhbA","AP007150.1",97.917,48,1,0,18,65,1902557,1902414,1.45e-49,102,100,"0/-2","oryzae","XM_748989","signal and metabolic regulation","small monomeric GTPase",564,564,187,2018,5,"2",NA
+"214","rhbA","XM_677045.1",92.513,187,14,0,1,187,1,561,8.83e-131,364,97.33,"0/1","nidulans","XM_748989","signal and metabolic regulation","small monomeric GTPase",564,564,187,2018,5,"2",NA
+"215","rhbA","XM_001276084.1",96.791,187,6,0,1,187,1,561,8.36e-136,375,97.86,"0/1","clavatus","XM_748989","signal and metabolic regulation","small monomeric GTPase",564,564,187,2018,5,"2",NA
+"216","rhbA","XM_001398429.1",95.187,187,9,0,1,187,1,561,1.32e-133,372,97.86,"0/1","niger","XM_748989","signal and metabolic regulation","small monomeric GTPase",564,564,187,2018,5,"2",NA
+"217","rhbA","CP051043.1",97.917,48,1,0,18,65,2171474,2171331,1.04e-48,102,100,"0/-3","flavus","XM_748989","signal and metabolic regulation","small monomeric GTPase",564,564,187,2018,5,"2",NA
+"218","sebA","XM_746824.1",100,618,0,0,1,618,1,1854,0,940,100,"0/1","fumigatus","XM_746824","response to stress","C2H2 finger domain transcription factor",2011,1857,618,2005,4,"5",NA
+"219","sebA","AB225127.1",74.375,160,38,2,460,618,151,624,1.69e-68,222,83.75,"0/1","oryzae","XM_746824","response to stress","C2H2 finger domain transcription factor",2011,1857,618,2005,4,"5",NA
+"220","sebA","BN001307.1",63.776,196,62,6,1,196,1448211,1448771,1.45e-45,175,76.53,"0/3","nidulans","XM_746824","response to stress","C2H2 finger domain transcription factor",2011,1857,618,2005,4,"5",NA
+"221","sebA","XM_001271799.1",77.6,625,130,6,1,618,1,1866,0,721,86.08,"0/1","clavatus","XM_746824","response to stress","C2H2 finger domain transcription factor",2011,1857,618,2005,4,"5",NA
+"222","sebA","AM270075.1",73.096,197,46,5,1,196,192370,191798,1.61e-64,232,83.25,"0/-1","niger","XM_746824","response to stress","C2H2 finger domain transcription factor",2011,1857,618,2005,4,"5",NA
+"223","sebA","CP051061.1",65.055,641,187,11,1,618,1754062,1752182,0,607,75.35,"0/-3","flavus","XM_746824","response to stress","C2H2 finger domain transcription factor",2011,1857,618,2005,4,"5",NA
+"224","sebA","XM_001211248.1",63.415,41,14,1,494,534,139,258,3.32e-10,62.4,80.49,"0/1","terreus","XM_746824","response to stress","C2H2 finger domain transcription factor",2011,1857,618,2005,4,"5",NA
+"225","sidA","XM_001267709.1",85.857,502,69,2,1,501,1,1503,0,868,92.43,"0/1","clavatus","XM_750010","nutrition","L-ornithine N5 monooxygenase",1564,1506,501,2004,2,"5",NA
+"226","sidA","XM_001209565.1",77.848,474,101,1,28,501,19,1428,0,747,85.86,"0/1","terreus","XM_750010","nutrition","L-ornithine N5 monooxygenase",1564,1506,501,2004,2,"5",NA
+"227","sidA","XM_750010.1",100,501,0,0,1,501,1,1503,0,1011,100,"0/1","fumigatus","XM_750010","nutrition","L-ornithine N5 monooxygenase",1564,1506,501,2004,2,"5",NA
+"228","sidA","CP051065.1",74.383,527,106,5,1,501,2504367,2505938,0,775,84.06,"0/3","flavus","XM_750010","nutrition","L-ornithine N5 monooxygenase",1564,1506,501,2004,2,"5",NA
+"229","sidA","AB230670.1",81.132,159,24,3,1,156,105,572,1.02e-71,226,86.79,"0/3","oryzae","XM_750010","nutrition","L-ornithine N5 monooxygenase",1564,1506,501,2004,2,"5",NA
+"230","sidA","BN001301.1",78.007,291,61,1,1,291,2140953,2140090,0,442,86.25,"0/-3","nidulans","XM_750010","nutrition","L-ornithine N5 monooxygenase",1564,1506,501,2004,2,"5",NA
+"231","sidA","XM_025596876.1",81.238,501,92,1,1,501,321,1817,0,816,89.02,"0/3","niger","XM_750010","nutrition","L-ornithine N5 monooxygenase",1564,1506,501,2004,2,"5",NA
+"232","sidC","AP007157.1",63.822,4605,1615,29,180,4758,1399801,1386062,0,5912,77.85,"0/-2","oryzae","XM_747995","nutrition","nonribosomal peptide synthetase",14342,14292,4763,2005,1,"5",NA
+"233","sidC","BN001308.1",56.242,3741,1556,35,1075,4757,2947378,2958531,0,4220,73.24,"0/1","nidulans","XM_747995","nutrition","nonribosomal peptide synthetase",14342,14292,4763,2005,1,"5",NA
+"234","sidC","XM_747995.1",100,4763,0,0,1,4763,1,14289,0,9680,100,"0/1","fumigatus","XM_747995","nutrition","nonribosomal peptide synthetase",14342,14292,4763,2005,1,"5",NA
+"235","sidC","XM_001276711.1",28.651,541,307,20,441,950,1849,3327,1.79e-34,146,44.55,"0/1","clavatus","XM_747995","nutrition","nonribosomal peptide synthetase",14342,14292,4763,2005,1,"5",NA
+"236","sidC","XM_001390915.1",60.999,4746,1796,32,38,4757,13,14163,0,5823,76.21,"0/1","niger","XM_747995","nutrition","nonribosomal peptide synthetase",14342,14292,4763,2005,1,"5",NA
+"237","sidC","CP051037.1",63.899,4601,1618,28,180,4758,1470522,1456783,0,5921,78.07,"0/-2","flavus","XM_747995","nutrition","nonribosomal peptide synthetase",14342,14292,4763,2005,1,"5",NA
+"238","sidC","XM_001214251.1",60.227,4762,1810,40,38,4758,76,14232,0,5702,76.08,"0/1","terreus","XM_747995","nutrition","nonribosomal peptide synthetase",14342,14292,4763,2005,1,"5",NA
+"239","sidD","BN001301.1",65.355,1957,624,19,145,2053,802688,796836,0,2579,79.71,"0/-1","nidulans","XM_743569","nutrition","nonribosomal peptide synthetase",6307,6252,2083,2005,3,"5",NA
+"240","sidD","XM_001273565.1",69.51,2040,587,9,35,2053,49,6126,0,2867,82.25,"0/1","clavatus","XM_743569","nutrition","nonribosomal peptide synthetase",6307,6252,2083,2005,3,"5",NA
+"241","sidD","AM270053.1",67.532,1925,605,9,140,2053,59118,53371,0,2608,80.83,"0/-1","niger","XM_743569","nutrition","nonribosomal peptide synthetase",6307,6252,2083,2005,3,"5",NA
+"242","sidD","XM_743569.1",100,2083,0,0,1,2083,1,6249,0,4134,100,"0/1","fumigatus","XM_743569","nutrition","nonribosomal peptide synthetase",6307,6252,2083,2005,3,"5",NA
+"243","sidD","CP061811.1",70.579,1951,560,6,143,2080,2342835,2336986,0,2796,82.16,"0/-3","flavus","XM_743569","nutrition","nonribosomal peptide synthetase",6307,6252,2083,2005,3,"5",NA
+"244","sidD","XM_001826711.3",70.835,1927,542,8,170,2080,1,5769,0,2757,82.36,"0/1","oryzae","XM_743569","nutrition","nonribosomal peptide synthetase",6307,6252,2083,2005,3,"5",NA
+"245","sidD","XM_001210044.1",43.478,69,39,0,1559,1627,7312,7518,1.23e-06,53.1,56.52,"0/1","terreus","XM_743569","nutrition","nonribosomal peptide synthetase",6307,6252,2083,2005,3,"5",NA
